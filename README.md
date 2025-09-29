@@ -1,1 +1,1 @@
-# Realtime-voice-translation
+# Realtime-voice-translation-app
